@@ -1,0 +1,105 @@
+
+ The Prevalence Of Mental Health Issues Among Teenagers
+
+
+
+
+Many adolescents experience positive mental health, but an estimated 49.5 percent of adolescents has had a mental health disorder at
+ some point in their lives For young people who do have mental health disorders, early intervention and treatment can help them reduce the impact on their lives.
+
+It is a normal part of development for teens to experience a wide range of emotions. It is typical, for instance, for teens to feel 
+anxious about school or friendships, or to experience a period of depression following the death of a close friend or family member.
+ However, mental health disorders are characterized by persistent symptoms that affect how a young person feels, thinks, and acts. 
+Mental health disorders also can interfere with regular activities and daily functioning, such as relationships, schoolwork, sleeping,
+ and eating.
+
+Why Is Mental Health Important?
+
+
+Our emotional, psychological, and social well-being are all parts of our mental health. It influences our thoughts, emotions, and behaviours. Additionally, it influences how we respond to stress, interact with others, and make good decisions. Every period of life, from childhood and adolescence to maturity, is vital for mental health.
+
+
+Common mental health issues among the youth 
+
+1. Anxiety disorders
+
+Occasional anxiety is a normal part of life. Many people worry about things such as health, money, or family problems. But anxiety 
+disorders involve more than temporary worry or fear. For people with an anxiety disorder, the anxiety does not go away and can get
+ worse over time. The symptoms can interfere with daily activities such as job performance, schoolwork, and relationships.
+
+There are several types of anxiety disorders, including generalized anxiety disorder, panic disorder, social anxiety disorder, and 
+various phobia-related disorders.
+
+2. Depression
+
+Depression is a common but serious mood disorder. It causes severe symptoms that affect how a person feels, thinks, and handles
+daily activities, such as sleeping, eating, or working.
+
+3. Attention-deficit/hyperactivity disorder (ADHD)
+
+Attention-deficit/hyperactivity disorder (ADHD) is marked by an ongoing pattern of inattention and/or
+hyperactivity-impulsivity that interferes with functioning or development.
+
+
+
+
+
+
+
+
+
+
+1. Depressed mood that affects thoughts, feelings, and daily activities, including eating, sleeping, and working
+
+2. Occurs in approximately 13 percent of 12- to 17-year-olds
+
+3. Examples include major depressive disorder and seasonal affective disorder
+
+
+WHAT IS Attention-Deficit/Hyperactivity Disorder
+
+Attention-deficit/hyperactivity disorder (ADHD) is marked by an ongoing pattern of inattention and/or
+hyperactivity-impulsivity that interferes with functioning or development.
+
+1. Characterized by continued inattention and/or hyperactivity-impulsivity that interferes with daily functioning or development
+
+2. Occurs in approximately nine percent of 13- to 18-year-olds
+
+Statistics On Mental Health
+
+Conclusion
+
+It is a well known fact that mental health issues are very common and it can occur in 1 out
+of 5 people. One must not be ashamed of it.
+
+1. We consult a doctor when we have any kind of injury similarly we also consult a
+doctor when we have any kind of mental stress or difficulty.
+
+2. Treat yourself with kindness and respect, and avoid self-criticism. Make time for your
+hobbies and favourite projects, or broaden your horizons. Do a daily crossword
+puzzle, plant a garden, take dance lessons or, learn to play an instrument .
+3. Surround yourself with good people.
+
+4. Try meditating, Mindfulness and/or prayer. Relaxation exercises and prayer can
+improve your state of mind and outlook on life. In fact, research shows that
+meditation may help you feel calm and enhance the effects of therapy.
+
+CSS
+video embeded link{
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wr4N-SdekqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>}
+
+ <style>
+        @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,900&display=swap');
+        @import url('https://fonts.cdnfonts.com/css/century-gothic');
+         </style>
+
+ font-family: 'Merriweather', serif;
+font-family: 'Century Gothic', sans-serif;
+
+color
+background=#FEA5AD
+#BE8ABF,#EA9ABB
+ 
+
+
+
